@@ -63,7 +63,7 @@ Raw CSV Reviews → Python Data Cleaning → Azure SQL Storage → Sentiment Ana
 This structure ensures scalability and separation between storage and analysis.
 
 ## Project Flow:
-<img width="941" height="706" alt="Screenshot 2026-02-17 211643" src="https://github.com/Nishi-W10/Client-Data-Transformation-Import-Readiness-Framework-45K-Records-/blob/main/diagram%20(1).png](https://github.com/Nishi-W10/Amazon-Product-Review-Performance-and-Sentiment-Intelligence/blob/main/diagram.png" />
+<img width="941" height="706" src="https://github.com/Nishi-W10/Amazon-Product-Review-Performance-and-Sentiment-Intelligence/blob/main/diagram.png" />
 
 
 ## Tools & Technologies
