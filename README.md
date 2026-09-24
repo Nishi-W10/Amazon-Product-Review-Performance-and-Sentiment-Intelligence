@@ -62,6 +62,8 @@ Raw CSV Reviews → Python Data Cleaning → Azure SQL Storage → Sentiment Ana
 
 This structure ensures scalability and separation between storage and analysis.
 
+<img width="941" height="706" src="
+
 ## Tools & Technologies
 
 - **Python:** Core data processing and analysis
